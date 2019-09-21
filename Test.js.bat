@@ -1,0 +1,2 @@
+supervisor Test.js
+pause;
